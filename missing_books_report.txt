@@ -1,0 +1,149 @@
+Books without found covers:
+
+Title: Jenny Trapdoor, Book ID: 204210779, ISBN: N/A
+Title: Entangled In Time: A Jason Falcone Technothriller, Book ID: 201734463, ISBN: N/A
+Title: Ghost in the Machine: a high tech, hard science fiction technothriller, Book ID: 201995715, ISBN: 9781739527310
+Title: The Disturbance 3: The Truth: Hard Science Fiction, Book ID: 123014279, ISBN: N/A
+Title: Fantastical, Book ID: 137502835, ISBN: N/A
+Title: Generative AI - fantasy dictonary: An experiment in code, content and product with chatGTP and stable diffusion, Book ID: 199422517, ISBN: N/A
+Title: The Wrath of God: Hard Science Fiction, Book ID: 198131070, ISBN: N/A
+Title: The Sword of God: Hard Science Fiction, Book ID: 150764624, ISBN: N/A
+Title: The Bastion of God, Book ID: 140309347, ISBN: N/A
+Title: The Factory of God, Book ID: 124930384, ISBN: N/A
+Title: Galaxy Unknown, Book ID: 194027663, ISBN: N/A
+Title: The Disturbance 2: The Answer: Hard Science Fiction, Book ID: 63363278, ISBN: N/A
+Title: My Hero, Book ID: 75412696, ISBN: N/A
+Title: Keep Away, Book ID: 61103260, ISBN: N/A
+Title: Head Case, Book ID: 60808827, ISBN: N/A
+Title: Coffin Troopers, Book ID: 63002196, ISBN: N/A
+Title: Worlds Collide, Book ID: 61268494, ISBN: N/A
+Title: Planet B, Book ID: 60552059, ISBN: 9798826322048
+Title: Stars End. The Complete Series Box Set, Book ID: 60154546, ISBN: N/A
+Title: The Disturbance, Book ID: 60908003, ISBN: N/A
+Title: Heavy Metal, Book ID: 61337633, ISBN: N/A
+Title: Made to Order: Robots and Revolution, Book ID: 51076945, ISBN: N/A
+Title: Forbidden, Book ID: 59412552, ISBN: N/A
+Title: Formation, Book ID: 58897530, ISBN: N/A
+Title: Crescent Earth, Book ID: 58896371, ISBN: 9781637304655
+Title: Exodus, Book ID: 58643874, ISBN: N/A
+Title: Mason's Rats: 3 Short Stories, Book ID: 40408025, ISBN: N/A
+Title: Owning the Future: Short Stories, Book ID: 40406967, ISBN: N/A
+Title: The Forgotten: The Complete Trilogy, Book ID: 55377070, ISBN: N/A
+Title: Metal Legion Complete Series Omnibus #1-8, Book ID: 54444822, ISBN: 9781649710079
+Title: Emerge, Book ID: 53710647, ISBN: N/A
+Title: Warden, Book ID: 53497910, ISBN: N/A
+Title: Warden 2, Book ID: 53179821, ISBN: N/A
+Title: Warden 3, Book ID: 53179835, ISBN: N/A
+Title: The Bosch: A Novella, Book ID: 53419196, ISBN: N/A
+Title: Rare Earth, Book ID: 53145734, ISBN: N/A
+Title: Exodus, Book ID: 53298125, ISBN: N/A
+Title: Entropy, Book ID: 54502863, ISBN: N/A
+Title: Freedom's Fire Box Set: The Complete Military Space Opera Series, Book ID: 43794761, ISBN: N/A
+Title: The Deathless Quadrilogy, Book ID: 52560037, ISBN: N/A
+Title: No Good Deed, Book ID: 45038085, ISBN: N/A
+Title: The Colossus Collection Quadrilogy: A Space Fantasy Adventure, Book ID: 44085306, ISBN: N/A
+Title: A.I. Void Ship, Book ID: 43533741, ISBN: 9781796405781
+Title: Gnosis, Book ID: 38746939, ISBN: 9781980278535
+Title: Invasion, Book ID: 38106631, ISBN: N/A
+Title: Marooned, Book ID: 40387364, ISBN: 9781983063541
+Title: Deep Dive, Book ID: 40967936, ISBN: 9781717956675
+Title: Alliance, Book ID: 39892323, ISBN: 9781980870876
+Title: Lost Systems, Book ID: 39299911, ISBN: 1980576327
+Title: The Lost Star Gate, Book ID: 42513523, ISBN: N/A
+Title: Battle Harem 2, Book ID: 40717404, ISBN: 9781717703378
+Title: Doom Wielder, Book ID: 39928855, ISBN: 9781980970149
+Title: Battle Harem 3, Book ID: 40782681, ISBN: 9781717741943
+Title: Battle Harem, Book ID: 40739460, ISBN: 9781983396229
+Title: A.I. Battle Fleet, Book ID: 39827429, ISBN: N/A
+Title: He Who Crosses Death, Book ID: 39887133, ISBN: 1980902003
+Title: Reactivated, Book ID: 41441483, ISBN: 9781719892919
+Title: Reforged, Book ID: 41433794, ISBN: N/A
+Title: Redeemed, Book ID: 41563179, ISBN: 1719981000
+Title: Orion Fleet, Book ID: 32943664, ISBN: N/A
+Title: Crimson Worlds Collection III, Book ID: 29981996, ISBN: N/A
+Title: Ethan Galaal #1-3, Book ID: 30988131, ISBN: N/A
+Title: Tales from the Mosspark Universe: Vol 1, Book ID: 35065932, ISBN: N/A
+Title: Weapons of War, Book ID: 31341638, ISBN: N/A
+Title: Rebooted, Book ID: 40488218, ISBN: 9781983112102
+Title: Reloaded, Book ID: 40375449, ISBN: 9781983084089
+Title: Terminal Event, Book ID: 35381639, ISBN: 9781629187402
+Title: Nelf Rings, Book ID: 34801827, ISBN: N/A
+Title: Artifact, Book ID: 48765777, ISBN: 1521023115
+Title: Runcible Tales, Book ID: 35907428, ISBN: 1902628241
+Title: Operation: Bug Spray, Book ID: 37787418, ISBN: N/A
+Title: Alien Empress, Book ID: 34506410, ISBN: 9781520771151
+Title: The Black, Book ID: 35632574, ISBN: 9780995343566
+Title: You Are Prey, Book ID: 34426299, ISBN: 9781520711713
+Title: Bug Hunt, Book ID: 34373441, ISBN: 9781520711553
+Title: Exodus, Book ID: 33961418, ISBN: 1520434405
+Title: No Rest for the Weary, Book ID: 30812858, ISBN: 1973447878
+Title: Fringe Station, Book ID: 31838542, ISBN: N/A
+Title: CRYO: Rise of the Immortals, Book ID: 28479300, ISBN: N/A
+Title: Rebel Fleet, Book ID: 31675453, ISBN: N/A
+Title: Genesis, Book ID: 30232102, ISBN: N/A
+Title: Behemoth, Book ID: 31678356, ISBN: 1536949353
+Title: The Last Ranger: BETRAYER, Book ID: 30314918, ISBN: N/A
+Title: Fringe Runner, Book ID: 30074185, ISBN: N/A
+Title: Endurance: The Complete Series, Book ID: 31368798, ISBN: N/A
+Title: Vast Frontiers: 6 Book Sci-Fi Boxset, Book ID: 32673508, ISBN: N/A
+Title: Raid, Book ID: 32616417, ISBN: 9781539514855
+Title: Warfare, Book ID: 31678353, ISBN: N/A
+Title: The Last Ranger: Warship, Book ID: 30196024, ISBN: N/A
+Title: Refusing Excalibur, Book ID: 30183792, ISBN: 9781483570112
+Title: Perdition Plains, Book ID: 31217173, ISBN: N/A
+Title: Errant Contact, Book ID: 28277862, ISBN: 1520363850
+Title: Into the Darkness, Book ID: 26100939, ISBN: 9781517058593
+Title: Code Breakers: The Complete Series, Book ID: 27829617, ISBN: N/A
+Title: The Black Planet, Book ID: 25758852, ISBN: N/A
+Title: New World, Book ID: 25924371, ISBN: N/A
+Title: Cosmic Destinies, Book ID: 26022101, ISBN: N/A
+Title: The Last Spaceship, Book ID: 25874096, ISBN: N/A
+Title: Battle Cruiser, Book ID: 25761342, ISBN: N/A
+Title: AL:ICE-9, Book ID: 27387022, ISBN: N/A
+Title: Hollow Space: Venture, Book ID: 22847860, ISBN: N/A
+Title: Post-Human Omnibus, Book ID: 20453431, ISBN: N/A
+Title: The Silver Ships, Book ID: 24664432, ISBN: N/A
+Title: Assault Troopers, Book ID: 18713456, ISBN: 9781496094117
+Title: Starhold, Book ID: 23786730, ISBN: N/A
+Title: Anton's OpenGL 4 Tutorials, Book ID: 22913863, ISBN: N/A
+Title: Unborn, Book ID: 22585296, ISBN: 9781477874295
+Title: Tech World, Book ID: 22853297, ISBN: N/A
+Title: All My Sins Remembered, Book ID: 23820230, ISBN: 0708880258
+Title: Nominal Meat, Book ID: 27788243, ISBN: N/A
+Title: Tycho City Survival, Book ID: 20430350, ISBN: N/A
+Title: Apex Cypher, Book ID: 21421898, ISBN: N/A
+Title: Shattered Worlds, Book ID: 20881120, ISBN: N/A
+Title: This is the End: The Post-Apocalyptic 7 Book Box Set, Book ID: 20743530, ISBN: N/A
+Title: Contamination Boxed Set, Book ID: 18886707, ISBN: N/A
+Title: The Nelson Touch, Book ID: 21531232, ISBN: 9781511316736
+Title: Faery Realms: Ten Magical Titles: Multi-Author Bundle of Novels & Novellas, Book ID: 21940083, ISBN: N/A
+Title: Horror Within : 8 Book Boxed Set, Book ID: 21941720, ISBN: N/A
+Title: Destiny's Dark Fantasy Boxed Set, Book ID: 21797733, ISBN: N/A
+Title: Corrosion: Terminal Horizon, Book ID: 22238726, ISBN: N/A
+Title: Torrent, Book ID: 22724344, ISBN: N/A
+Title: Pandora, Book ID: 22769093, ISBN: N/A
+Title: The Antaran Codex, Book ID: 22798115, ISBN: 0987434799
+Title: Bleed, Book ID: 23514501, ISBN: N/A
+Title: Crimson Worlds Collection I, Book ID: 19138149, ISBN: N/A
+Title: The Lowest Heaven, Book ID: 18068078, ISBN: 9780957169654
+Title: Steel World, Book ID: 18600590, ISBN: N/A
+Title: Transcendental, Book ID: 17933815, ISBN: N/A
+Title: Dominion, Book ID: 18596802, ISBN: N/A
+Title: Alastair, Book ID: 17730362, ISBN: N/A
+Title: Ghosts of Ophidian, Book ID: 17282393, ISBN: 9781980893165
+Title: First Strike, Book ID: 18889949, ISBN: N/A
+Title: Synchronicity Trilogy Omnibus, Book ID: 19251302, ISBN: 9780983843078
+Title: Fleet Academy, Book ID: 18196185, ISBN: N/A
+Title: Destroyer, Book ID: 20406088, ISBN: N/A
+Title: Ep.#1.9 - "Resistance", Book ID: 18705142, ISBN: N/A
+Title: The Mystic Saga Omnibus, Book ID: 15830771, ISBN: N/A
+Title: erinyes, Book ID: 16500588, ISBN: N/A
+Title: Revelations, Book ID: 17831668, ISBN: N/A
+Title: First Contact, Book ID: 16166578, ISBN: N/A
+Title: Neutron Star, Book ID: 18933148, ISBN: N/A
+Title: Tycho City: Discovery, Book ID: 17983706, ISBN: N/A
+Title: Edge of Infinity, Book ID: 17253000, ISBN: 9781849974615
+Title: The Frontiers Saga: Episodes 1.1, 1.2, 1.3, Book ID: 18837765, ISBN: N/A
+Title: Surrender at Dawn, Book ID: 11861180, ISBN: N/A
+Title: As the Snow Falls - Vol. 1, Book ID: 13263276, ISBN: N/A
+Title: The Chaos Chronicles, Books 1-3, Book ID: 10186348, ISBN: N/A
